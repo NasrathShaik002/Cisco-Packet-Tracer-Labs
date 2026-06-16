@@ -1,9 +1,8 @@
 #Lab-01: Basic lan connection with switch, router, pc, server, laptop.                           
 Cisco Packet Tracer | CCNA Practical | Cyber Security |Soc Analyst
-
-File: 1st time pc and switch and router configuration.pkt
+ pc and switch and router configuration.pkt
 By: Nasrathshaik
-Date: October 2026
+Date: Continuously doing the labs from the time of joining in the cybersecurity certification2025 nov to till now
 TOPOLOGY
 Devices: Router4, Switch0, PC0, Laptop0, PC1, Server0
 Status: All links green = Physical connectivity successful
